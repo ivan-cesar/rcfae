@@ -1,0 +1,61 @@
+{
+  "cannotNext": true,
+  "connected": null,
+  "wantAdditional": "oui",
+  "pid": "",
+  "wait": false,
+  "actor": "ACTOR_WEB",
+  "step": 0,
+  "documents": [],
+  "adherent": {
+    "civility": "Madame",
+    "countryCode": "",
+    "familyName": "",
+    "firstNames": "",
+    "placeOfBirth": "",
+    "employingOrganization": "",
+    "personnelNumber": "",
+    "socialSecurityNumber": "",
+    "maritalStatus": "",
+    "numberOfChildren": 0,
+    "telephoneContact": "",
+    "email": "",
+    "country": "",
+    "city": "",
+    "area": "",
+    "geographicalAddress": "",
+    "dateOfBirth": ""
+  },
+  "additional": {
+    "choice": "non",
+    "contributionAmount": 0,
+    "paymentMethod": "",
+    "periodicity": "",
+    "effectiveDate": ""
+  },
+  "claimant01": {
+    "isGovernmentEmployee": "non",
+    "nameEndSurname": "",
+    "familyName": "",
+    "firstNames": "",
+    "dateOfBirth": "",
+    "placeOfBirth": "",
+    "contact": ""
+  },
+  "claimant02": {
+    "isGovernmentEmployee": "non",
+    "nameEndSurname": "",
+    "familyName": "",
+    "firstNames": "",
+    "dateOfBirth": "",
+    "placeOfBirth": "",
+    "contact": ""
+  },
+  "wantClaimant01": false,
+  "wantClaimant02": false,
+  "file1": null,
+  "file2": null,
+  "file3": null,
+  "file4": null,
+  "file5": null
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Mensuelle",
+    "title": "Mensuelle",
+    "value": "Mensuelle"
+  },
+  {
+    "id": "Trimestrielle",
+    "title": "Trimestrielle",
+    "value": "Trimestrielle"
+  }
+]

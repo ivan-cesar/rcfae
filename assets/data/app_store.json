@@ -1,0 +1,102 @@
+{
+  "appEvent": {
+    "wait": false
+  },
+  "appState": {
+    "connected": null,
+    "step": 0,
+    "file1": null,
+    "file2": null,
+    "file3": null,
+    "file4": null,
+    "file5": null,
+    "documents": [],
+    "wantAdditional": "",
+    "wantClaimantOne": false,
+    "wantClaimantTwo": false,
+    "cannotNext": true
+  },
+  "adhesion": {
+    "pid": "",
+    "actor": "ACTOR_WEB",
+    "adherent": {
+      "civility": "",
+      "countryCode": "",
+      "familyName": "",
+      "firstNames": "",
+      "placeOfBirth": "",
+      "employingOrganization": "",
+      "personnelNumber": "",
+      "socialSecurityNumber": "",
+      "maritalStatus": "",
+      "numberOfChildren": null,
+      "telephoneContact": "",
+      "email": "",
+      "country": "",
+      "city": "",
+      "area": "",
+      "geographicalAddress": "",
+      "dateOfBirth": ""
+    },
+    "additional": {
+      "contributionAmount": null,
+      "paymentMethod": "",
+      "periodicity": "",
+      "effectiveDate": ""
+    },
+    "claimantOne": {
+      "isGovernmentEmployee": "",
+      "nameEndSurname": "",
+      "familyName": "",
+      "firstNames": "",
+      "dateOfBirth": "",
+      "placeOfBirth": "",
+      "contact": ""
+    },
+    "claimantTwo": {
+      "isGovernmentEmployee": "",
+      "nameEndSurname": "",
+      "familyName": "",
+      "firstNames": "",
+      "dateOfBirth": "",
+      "placeOfBirth": "",
+      "contact": ""
+    }
+  },
+  "adhesionRequired": {
+    "adherent": {
+      "civility": true,
+      "familyName": true,
+      "firstNames": true,
+      "dateOfBirth": false,
+      "placeOfBirth": false,
+      "employingOrganization": false,
+      "personnelNumber": false,
+      "socialSecurityNumber": true,
+      "maritalStatus": true,
+      "numberOfChildren": true,
+      "countryCode": true,
+      "telephoneContact": true,
+      "email": true,
+      "country": true,
+      "city": true,
+      "area": true,
+      "geographicalAddress": true
+    },
+    "additional": {
+      "contributionAmount": true,
+      "paymentMethod": true,
+      "periodicity": true,
+      "effectiveDate": true
+    },
+    "claimant": {
+      "isGovernmentEmployee": true,
+      "nameEndSurname": true,
+      "familyName": false,
+      "firstNames": false,
+      "dateOfBirth": true,
+      "placeOfBirth": true,
+      "contact": true
+    }
+  }
+}
